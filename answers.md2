@@ -1,0 +1,13 @@
+1. git version 2.31.1
+2. user.name=Devon Swensen,  user.email=ds191721@ohio.edu
+3. git --help    this command updates the index using the current content and it brings up the GIT Manual 
+4. Shows my file answers.md2 and README.md2 in red words. 
+5. The file README.md2 has now gone from red to green. 
+6. Now both files have green letters and are in the staging area. 
+7. On main branch it says ahead of main by 1 commit. working tree clean, there are no more red letters or untracked files. 
+8. commit 1d1aac0872f7357771ed38fd654f5a09f645c3dc (HEAD -> main)
+    Author: Devon Swensen <ds191721@ohio.edu>
+    Date:   Wed Sep 6 16:49:52 2023 -0400
+
+    Initial commit
+9. 
